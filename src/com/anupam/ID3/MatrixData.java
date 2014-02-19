@@ -10,9 +10,12 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.StringTokenizer;
-
 /**
  * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
+/**
  * This is the Matrix datatype.,
  */
 public class MatrixData {

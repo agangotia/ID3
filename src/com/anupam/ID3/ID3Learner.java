@@ -6,9 +6,13 @@ package com.anupam.ID3;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-
 /**
- * @author Anupam Gangotia This class the learner class, which has the function
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
+/**
+ * This class the learner class, which has the function
  *         to learn from the train values, and store it in a Decision tree
  * 
  */

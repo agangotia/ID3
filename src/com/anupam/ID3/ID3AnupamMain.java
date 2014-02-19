@@ -10,7 +10,12 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 
 /**
- * @author Anupam Gangotia 
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
+
+/**
  * This is the main class that has the main function()
  *         It accepts two command line arguments: Argument 1 : File name to
  *         Learn from. Argument 2 : File name to Test from. The format of the

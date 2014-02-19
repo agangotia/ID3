@@ -5,9 +5,13 @@ package com.anupam.ID3;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-
 /**
- * @author Anupam Gangotia This Class is the data structure for Tree. Each node
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
+/**
+ *This Class is the data structure for Tree. Each node
  *         of a tree has following attribute int atrvalue ->This is the
  *         attribute value String attributeName ->This is the attribute Name
  *         ArrayList<TreeNode> branches -> This is the arraylist of other
